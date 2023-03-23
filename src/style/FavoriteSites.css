@@ -1,0 +1,15 @@
+.ff {
+    margin: 20px;
+}
+
+.ff li{
+    list-style: none;
+    padding-right: 35px;
+}
+
+a{
+    color: lightgreen;
+}
+a:hover{
+    color: red;
+}

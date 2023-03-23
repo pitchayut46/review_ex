@@ -1,0 +1,8 @@
+.gg li{
+    list-style: none;
+}
+
+.gg img:hover{
+    transform: scale(1.2);
+    transition: 1s;
+}
